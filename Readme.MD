@@ -6,6 +6,4 @@ Responsive Admin Dashboard
 
 visit : https://vijinv.github.io/responsive-admin-dashboard/
 
-![Getting Started](./website.png)
-![Getting Started](./website2.png)
-![Getting Started](./website3.png)
+![Getting Started](./website.jpg)
